@@ -1,6 +1,6 @@
 # Project 1 - *Simple Todo App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Peacebridge.com(Simple Todo)** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Yeboah Peacebridge Osei**
 
@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough Todo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I used the newest version of android studio. However, I think the video was made with an old version so I struglled a little bit following exactly what the instructions from the video.
 
 ## License
 
